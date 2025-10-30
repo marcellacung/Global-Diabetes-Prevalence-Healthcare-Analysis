@@ -1,0 +1,133 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2000,897302.6945157758,930512.6168984337,852929.9517055379
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2000,14.712827508181524,15.257361546207362,13.985259748692915
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2001,924257.0939883778,957291.450181542,879272.2582058597
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2001,14.964811052628466,15.49967619122608,14.236453572769754
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2003,994101.7300554779,1030355.2934963477,941487.703122883
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2003,15.68944164250306,16.261614641242886,14.859059117074825
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2004,1016465.2283511715,1052757.2576988519,962529.0377861627
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2004,15.836808103148039,16.40224791202902,14.99646740484552
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2005,1042379.1651944389,1075551.5072806634,991770.5153397039
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2005,16.03081206384553,16.540971513936473,15.25249858472405
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2006,1060568.7237559557,1098948.472054458,1002865.3366530018
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2006,16.09673461039485,16.67924153232905,15.220944020391707
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2008,1116613.831033676,1155981.6675506658,1059747.4933706508
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2008,16.49711539618573,17.078745073222528,15.656958747116686
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2007,1085336.1680329703,1124686.6739675477,1029719.8532409009
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2007,16.253910157507807,16.84322027814286,15.421004546741768
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2009,1144986.153461462,1184872.8658311304,1081465.5889130498
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2009,16.688176731072446,17.26952568733201,15.762364306147708
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2010,1173814.236685159,1216082.7574859492,1113024.2679589977
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2010,16.887576531780297,17.49569053960174,16.012995855261423
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2011,1200308.2321083436,1245553.8721735913,1133389.5991143512
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2011,17.05505500727193,17.697945607794253,16.104215101159408
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2013,1272197.9244117374,1320779.027528056,1204107.6768079014
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2013,17.62970369152429,18.302924765473247,16.686131259512027
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2012,1230728.571119467,1282009.6581600064,1162344.8732381193
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2012,17.27015574439045,17.989755809517874,16.31056388920666
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2015,1375408.3584083617,1435484.3880987726,1301508.7792794758
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2015,18.595618088348782,19.4078502502065,17.596490562353008
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2014,1325614.8507326974,1379909.2508347004,1253632.9632391315
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2014,18.143886362165446,18.887021840021763,17.1586596305129
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2016,1427131.5444363046,1489753.5928577145,1342759.1055147813
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2016,19.06244827979319,19.898902048796884,17.93547070057022
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2018,1533639.7381523056,1605747.0188996126,1447441.8091107921
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2018,20.016109579707276,20.957208846391463,18.891107957541838
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2017,1476713.817321647,1542942.5427357736,1393044.322872524
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2017,19.49314433532151,20.367386919428647,18.38867743548695
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2019,1590099.8825437638,1674727.0569687183,1489596.4384925496
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2019,20.529792748893158,21.62241489857183,19.232191950620916
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2002,958318.008150165,992417.5917522957,909858.9239890496
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2002,15.319903212032001,15.865027394101425,14.54522458470973
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2021,1656634.5255417156,1759551.409745094,1537698.765394509
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2021,20.993034558300273,22.297207369746204,19.485868985874735
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2020,1625602.2222279843,1722400.74520835,1513448.7154093958
+1,Deaths,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2020,20.781470757671226,22.018929495852085,19.347716060211233
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2000,38459855.41302881,44971512.347669795,33635723.88885073
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2000,630.6157578038417,737.3856202564745,551.5157891691597
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2001,39666184.202627175,46393029.60665338,34565667.56092966
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2001,642.2422458339668,751.1577966111838,559.6588734040982
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2002,41110525.213788055,48068439.883253336,35765488.437273175
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2002,657.2027885469373,768.433693515054,571.7557392537465
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2003,42638308.57281352,49978534.16883343,37165931.23675847
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2003,672.9404384507624,788.7877784660893,586.5724720103456
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2004,43920465.26337907,51512473.41731933,38195884.063804686
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2004,684.2929406502141,802.5785178622548,595.1023895129078
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2005,45262699.01742626,53295266.98674722,39236145.16338873
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2005,696.09777869593,819.6311260669213,603.4150434182161
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2006,46460994.18842873,54533743.19420506,40323023.73996711
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2006,705.1596718199334,827.6834606246016,612.0008984729008
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2007,47856491.24383644,56149172.03493722,41426461.34834684
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2007,716.6950959909832,840.8856394497257,620.399467678151
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2009,51098360.121625505,59938796.11883739,44049451.31068635
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2009,744.7587569506555,873.6081389761054,642.0208892109074
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2008,49461253.04116088,58153184.63827291,42538806.97462165
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2008,730.7521869979101,859.1688289810814,628.4783404722474
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2010,52741094.14833467,62140614.7000431,45297409.41977868
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2010,758.7821274983628,894.0123178624563,651.6903990090867
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2011,54423090.04512143,64323069.25648667,46632983.45911829
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2011,773.2920341260127,913.9598105388318,662.6032187178031
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2013,58396359.15864557,69390793.87302624,49900538.50067584
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2013,809.2376892587661,961.5949778150779,691.5053789458132
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2012,56316680.12544627,66524744.04593241,48206825.92641169
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2012,790.2618494415897,933.5061503316966,676.4606032787341
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2015,63126777.01436486,75056070.25134,53994899.00596902
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2015,853.4784810133863,1014.763367601846,730.0148457697926
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2014,60752877.323558815,72143828.31920916,51915661.45959694
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2014,831.5336100255411,987.4432396648293,710.5773305262388
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2019,73898816.26296875,88538037.64579724,62668481.308993176
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2019,954.1082286228825,1143.1153371032915,809.1132810495666
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2018,71169280.72492202,85210724.52425826,60725552.24576941
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2018,928.8570752706473,1112.117244365785,792.5520432223252
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2016,65656101.0971323,77983893.75319894,56207462.231745414
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2016,876.9801468520596,1041.6446522555223,750.7730075115693
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2020,76517019.56654109,92223985.07581341,64861417.94989471
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2020,978.1828437751876,1178.9784873584751,829.1792678404623
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2017,68268828.37988275,81204361.49787766,58205784.71180214
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2017,901.1726643324898,1071.9262735732732,768.3369311162054
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2021,78938587.05039968,94495830.37546831,66772200.717917204
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2021,1000.3174872807567,1197.4603946146815,846.1438510383754
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2000,216767909.5460923,234138187.9092108,201463504.812842
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2000,3554.28428104946,3839.09999695854,3303.3421315029004
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2001,225460690.8969025,243177923.76245683,209890342.88922715
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2001,3650.47416028775,3937.3370298647797,3398.37188541847
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2002,234710954.9884981,252696280.90367863,218888909.85034728
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2002,3752.14603362014,4039.66379903214,3499.21099736765
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2003,244325491.92806405,262680643.3869607,228264418.1630165
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2003,3856.0747169882397,4145.765468897101,3602.59031802378
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2004,254238404.2121704,273059174.77566826,237924471.716732
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2004,3961.10433259966,4254.33711956964,3706.92877289353
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2005,264210260.387945,283399027.09877,247554466.85537648
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2005,4063.3055331921996,4358.41073401501,3807.15507968135
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2006,274868206.2254348,294791326.8096729,257574017.14044735
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2006,4171.79996858385,4474.18224468911,3909.3181833232397
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2007,286700430.0065647,307466025.7596675,268526596.15939456
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2007,4293.60337257645,4604.58732177052,4021.43344839088
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2008,299369096.36608857,320917811.6095388,280249940.9516253
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2008,4422.94944907794,4741.31523690062,4140.4785496641
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2009,312659844.48749787,335004909.1992533,292754625.2177376
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2009,4557.018201262121,4882.69758860641,4266.89956878759
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2010,326141621.83270586,349505516.7694582,305983077.9031378
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2010,4692.174815030839,5028.30940216885,4402.15537009618
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2011,340546362.0705932,364791092.6330541,319453912.8887075
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2011,4838.787889872649,5183.27874840234,4539.08747008691
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2012,356444081.4341232,381746548.39813066,334136084.481989
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2012,5001.7891393665695,5356.84512444721,4688.752950275501
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2013,373110227.8980263,399561606.1471973,349412832.21127105
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2013,5170.439784486261,5536.99435262153,4842.04900801846
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2014,389793566.24206656,417359369.407714,364648041.9087908
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2014,5335.16214509078,5712.45936671053,4990.99163752001
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2015,405582691.1827592,434111305.4262841,379222949.0883662
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2015,5483.506612688499,5869.21549094218,5127.1210389801
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2016,422166370.4042704,452044269.3225997,394738318.6697309
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2016,5638.95082599274,6038.03520266421,5272.58949115752
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2017,440952093.7440815,472484643.339018,412353865.3744078
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2017,5820.72349258948,6236.96429246879,5443.21677002381
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2018,460547066.3835,493856262.7247865,430682611.6143719
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2018,6010.77314184029,6445.50400293707,5621.00089981607
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2019,479406334.05634856,514515238.63211465,448200951.1511383
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2019,6189.61914828806,6642.91050595301,5786.7261912312
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2020,503786752.9271314,540475247.937765,470111723.0095862
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2020,6440.339174554239,6909.35974784152,6009.84231626622
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2021,525654113.331554,565380792.289232,490915907.2552074
+5,Prevalence,1,Global,3,Both,22,All ages,587,Diabetes mellitus,3,Rate,2021,6661.14027973283,7164.56063671973,6220.934338464261
